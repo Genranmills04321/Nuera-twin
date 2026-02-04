@@ -1,0 +1,8 @@
+{
+  "name": "NeuroTwin2",
+  "description": "A high-performance AI-powered marketing suite for cloning your brand voice and generating high-converting ad copy, sales pages, and visual assets using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
